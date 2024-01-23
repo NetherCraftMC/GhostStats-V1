@@ -1,0 +1,10 @@
+name: GhostStats-V1
+version: '${project.version}'
+main: de.ghost143.ghoststatsv1.GhostStats_V1
+api-version: '1.18'
+description: Stats sind wichtig und richtig yk
+author: Ghost143
+
+commands:
+  stats:
+    description: Sehe dein Kill u. Tode Fortschritt
